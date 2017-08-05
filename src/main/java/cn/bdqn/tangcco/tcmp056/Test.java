@@ -7,5 +7,6 @@ public class Test {
     @org.junit.Test
     public static void main(String[] args) {
         System.out.println("一直努力");
+        System.out.println("加油");
     }
 }
